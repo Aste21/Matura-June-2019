@@ -37,9 +37,6 @@ Dla pliku pierwsze_przyklad.txt liczbami spełniającymi warunek zadania są: 70
 Do oceny oddajesz:
 • plik wyniki4_2.txt zawierający odpowiedź do zadania
 • plik zawierający kod źródłowy Twojego programu o nazwie: ………………….………
-Więcej arkuszy znajdziesz na stronie: arkusze.pl
-Strona 3 z 8
-MIN_1R
 Zadanie 4.3. (0–4)
 Niech oznacza sumę cyfr liczby N. Dla danej liczby N tworzymy ciąg, w którym
 , a każdy kolejny element jest sumą cyfr występujących w poprzednim elemencie:
