@@ -2,7 +2,7 @@
 Matura June 2019
 task:
 
-Zadanie 4. Wybrane liczby
+    Zadanie 4. Wybrane liczby
 Liczby pierwsze to liczby naturalne większe od 1, które mają dokładnie dwa dzielniki: jedynkę
 i samą siebie.
 Dane są dwa pliki: liczby.txt i pierwsze.txt. Plik liczby.txt zawiera 300
@@ -17,7 +17,9 @@ liczba. Odpowiedzi dla danych z tych plików są podane pod treściami zadań.
 Napisz program(-y), w wyniku działania którego(-ych) otrzymasz odpowiedzi do poniższych
 zadań. Pliki źródłowe z rozwiązaniem zapisz pod nazwą zgodną z numerem zadania,
 z rozszerzeniem odpowiadającym użytemu językowi programowania.
-Zadanie 4.1. (0–4)
+
+
+    Zadanie 4.1. (0–4)
 Podaj, (zachowując ich kolejność) te liczby z pliku liczby.txt, które są liczbami
 pierwszymi z przedziału 〈100; 5000〉. Odpowiedź zapisz w pliku wyniki4_1.txt.
 Dla pliku liczby_przyklad.txt odpowiedzią są liczby: 103, 163, 173, 701, 1033, 2137,
@@ -25,7 +27,9 @@ Dla pliku liczby_przyklad.txt odpowiedzią są liczby: 103, 163, 173, 701, 1033,
 Do oceny oddajesz:
 • plik wyniki4_1.txt, zawierający odpowiedź do zadania
 • plik zawierający kod źródłowy Twojego programu o nazwie: ………………….………
-Zadanie 4.2. (0–4)
+
+
+    Zadanie 4.2. (0–4)
 Podaj, w kolejności ich występowania w pliku pierwsze.txt, wszystkie te liczby, które
 czytane od prawej do lewej również są liczbami pierwszymi. Odpowiedź zapisz w pliku
 wyniki4_2.txt.
@@ -37,7 +41,9 @@ Dla pliku pierwsze_przyklad.txt liczbami spełniającymi warunek zadania są: 70
 Do oceny oddajesz:
 • plik wyniki4_2.txt zawierający odpowiedź do zadania
 • plik zawierający kod źródłowy Twojego programu o nazwie: ………………….………
-Zadanie 4.3. (0–4)
+
+
+    Zadanie 4.3. (0–4)
 Niech oznacza sumę cyfr liczby N. Dla danej liczby N tworzymy ciąg, w którym
 , a każdy kolejny element jest sumą cyfr występujących w poprzednim elemencie:
 
